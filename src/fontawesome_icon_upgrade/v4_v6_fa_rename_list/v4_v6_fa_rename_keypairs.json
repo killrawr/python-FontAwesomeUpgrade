@@ -1,0 +1,957 @@
+{
+  "500px": {
+    "New_Icon_V6": "500px",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f26e"
+  },
+  "address-book-o": {
+    "New_Icon_V6": "address-book",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f2b9"
+  },
+  "address-card-o": {
+    "New_Icon_V6": "address-card",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f2bb"
+  },
+  "adn": {
+    "New_Icon_V6": "adn",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f170"
+  },
+  "amazon": {
+    "New_Icon_V6": "amazon",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f270"
+  },
+  "android": {
+    "New_Icon_V6": "android",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f17b"
+  },
+  "angellist": {
+    "New_Icon_V6": "angellist",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f209"
+  },
+  "apple": {
+    "New_Icon_V6": "apple",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f179"
+  },
+  "area-chart": {
+    "New_Icon_V6": "chart-area",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f1fe"
+  },
+  "arrow-circle-o-down": {
+    "New_Icon_V6": "circle-down",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f358"
+  },
+  "arrow-circle-o-left": {
+    "New_Icon_V6": "circle-left",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f359"
+  },
+  "arrow-circle-o-right": {
+    "New_Icon_V6": "circle-right",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f35a"
+  },
+  "arrow-circle-o-up": {
+    "New_Icon_V6": "circle-up",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f35b"
+  },
+  "arrows": {
+    "New_Icon_V6": "up-down-left-right",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f0b2"
+  },
+  "arrows-alt": {
+    "New_Icon_V6": "maximize",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f31e"
+  },
+  "arrows-h": {
+    "New_Icon_V6": "left-right",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f337"
+  },
+  "arrows-v": {
+    "New_Icon_V6": "up-down",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f338"
+  },
+  "asl-interpreting": {
+    "New_Icon_V6": "hands-asl-interpreting",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f2a3"
+  },
+  "automobile": {
+    "New_Icon_V6": "car",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f1b9"
+  },
+  "bandcamp": {
+    "New_Icon_V6": "bandcamp",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2d5"
+  },
+  "bank": {
+    "New_Icon_V6": "bank",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f19c"
+  },
+  "bar-chart": {
+    "New_Icon_V6": "chart-bar",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f080"
+  },
+  "bar-chart-o": {
+    "New_Icon_V6": "chart-bar",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f080"
+  },
+  "bathtub": {
+    "New_Icon_V6": "bath",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f2cd"
+  },
+  "battery": {
+    "New_Icon_V6": "battery-full",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f240"
+  },
+  "battery-0": {
+    "New_Icon_V6": "battery-empty",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f244"
+  },
+  "battery-1": {
+    "New_Icon_V6": "battery-quarter",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f243"
+  },
+  "battery-2": {
+    "New_Icon_V6": "battery-half",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f242"
+  },
+  "battery-3": {
+    "New_Icon_V6": "battery-three-quarters",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f241"
+  },
+  "battery-4": {
+    "New_Icon_V6": "battery-full",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f240"
+  },
+  "behance": {
+    "New_Icon_V6": "behance",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1b4"
+  },
+  "behance-square": {
+    "New_Icon_V6": "behance-square",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1b5"
+  },
+  "bell-o": {
+    "New_Icon_V6": "bell",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f0f3"
+  },
+  "bell-slash-o": {
+    "New_Icon_V6": "bell-slash",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1f6"
+  },
+  "bitbucket": {
+    "New_Icon_V6": "bitbucket",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f171"
+  },
+  "bitbucket-square": {
+    "New_Icon_V6": "bitbucket",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f171"
+  },
+  "bitcoin": {
+    "New_Icon_V6": "btc",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f15a"
+  },
+  "black-tie": {
+    "New_Icon_V6": "black-tie",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f27e"
+  },
+  "bluetooth": {
+    "New_Icon_V6": "bluetooth",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f293"
+  },
+  "bluetooth-b": {
+    "New_Icon_V6": "bluetooth-b",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f294"
+  },
+  "bookmark-o": {
+    "New_Icon_V6": "bookmark",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f02e"
+  },
+  "btc": {
+    "New_Icon_V6": "btc",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f15a"
+  },
+  "building-o": {
+    "New_Icon_V6": "building",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1ad"
+  },
+  "buysellads": {
+    "New_Icon_V6": "buysellads",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f20d"
+  },
+  "cab": {
+    "New_Icon_V6": "taxi",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f1ba"
+  },
+  "calendar": {
+    "New_Icon_V6": "calendar-days",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f073"
+  },
+  "calendar-check-o": {
+    "New_Icon_V6": "calendar-check",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f274"
+  },
+  "calendar-minus-o": {
+    "New_Icon_V6": "calendar-minus",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f272"
+  },
+  "calendar-o": {
+    "New_Icon_V6": "calendar",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f133"
+  },
+  "calendar-plus-o": {
+    "New_Icon_V6": "calendar-plus",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f271"
+  },
+  "calendar-times-o": {
+    "New_Icon_V6": "calendar-xmark",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f273"
+  },
+  "caret-square-o-down": {
+    "New_Icon_V6": "square-caret-down",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f150"
+  },
+  "caret-square-o-left": {
+    "New_Icon_V6": "square-caret-left",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f191"
+  },
+  "caret-square-o-right": {
+    "New_Icon_V6": "square-caret-right",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f152"
+  },
+  "caret-square-o-up": {
+    "New_Icon_V6": "square-caret-up",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f151"
+  },
+  "cc": {
+    "New_Icon_V6": "closed-captioning",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f20a"
+  },
+  "cc-amex": {
+    "New_Icon_V6": "cc-amex",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1f3"
+  },
+  "cc-diners-club": {
+    "New_Icon_V6": "cc-diners-club",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f24c"
+  },
+  "cc-discover": {
+    "New_Icon_V6": "cc-discover",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1f2"
+  },
+  "cc-jcb": {
+    "New_Icon_V6": "cc-jcb",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f24b"
+  },
+  "cc-mastercard": {
+    "New_Icon_V6": "cc-mastercard",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1f1"
+  },
+  "cc-paypal": {
+    "New_Icon_V6": "cc-paypal",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1f4"
+  },
+  "cc-stripe": {
+    "New_Icon_V6": "cc-stripe",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1f5"
+  },
+  "cc-visa": {
+    "New_Icon_V6": "cc-visa",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1f0"
+  },
+  "chain": {
+    "New_Icon_V6": "link",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f0c1"
+  },
+  "chain-broken": {
+    "New_Icon_V6": "link-slash",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f127"
+  },
+  "check-circle-o": {
+    "New_Icon_V6": "circle-check",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f058"
+  },
+  "check-square-o": {
+    "New_Icon_V6": "square-check",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f14a"
+  },
+  "chrome": {
+    "New_Icon_V6": "chrome",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f268"
+  },
+  "circle-o": {
+    "New_Icon_V6": "circle",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f111"
+  },
+  "circle-o-notch": {
+    "New_Icon_V6": "circle-notch",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f1ce"
+  },
+  "circle-thin": {
+    "New_Icon_V6": "circle",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f111"
+  },
+  "clipboard": {
+    "New_Icon_V6": "clipboard",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f328"
+  },
+  "clock-o": {
+    "New_Icon_V6": "clock",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f017"
+  },
+  "clone": {
+    "New_Icon_V6": "clone",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f24d"
+  },
+  "close": {
+    "New_Icon_V6": "xmark",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f00d"
+  },
+  "cloud-download": {
+    "New_Icon_V6": "cloud-arrow-down",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f0ed"
+  },
+  "cloud-upload": {
+    "New_Icon_V6": "cloud-arrow-up",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f0ee"
+  },
+  "cny": {
+    "New_Icon_V6": "yen-sign",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f157"
+  },
+  "code-fork": {
+    "New_Icon_V6": "code-branch",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f126"
+  },
+  "codepen": {
+    "New_Icon_V6": "codepen",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1cb"
+  },
+  "codiepie": {
+    "New_Icon_V6": "codiepie",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f284"
+  },
+  "comment-o": {
+    "New_Icon_V6": "comment",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f075"
+  },
+  "commenting": {
+    "New_Icon_V6": "comment-dots",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f4ad"
+  },
+  "commenting-o": {
+    "New_Icon_V6": "comment-dots",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f4ad"
+  },
+  "comments-o": {
+    "New_Icon_V6": "comments",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f086"
+  },
+  "compass": {
+    "New_Icon_V6": "compass",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f14e"
+  },
+  "compress": {
+    "New_Icon_V6": "down-left-and-up-right-to-center",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f422"
+  },
+  "connectdevelop": {
+    "New_Icon_V6": "connectdevelop",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f20e"
+  },
+  "contao": {
+    "New_Icon_V6": "contao",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f26d"
+  },
+  "copyright": {
+    "New_Icon_V6": "copyright",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1f9"
+  },
+  "creative-commons": {
+    "New_Icon_V6": "creative-commons",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f25e"
+  },
+  "credit-card": {
+    "New_Icon_V6": "credit-card",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f09d"
+  },
+  "credit-card-alt": {
+    "New_Icon_V6": "credit-card",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f09d"
+  },
+  "css3": {
+    "New_Icon_V6": "css3",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f13c"
+  },
+  "cutlery": {
+    "New_Icon_V6": "utensils",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f2e7"
+  },
+  "dashboard": {
+    "New_Icon_V6": "gauge",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f625"
+  },
+  "dashcube": {
+    "New_Icon_V6": "dashcube",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f210"
+  },
+  "deafness": {
+    "New_Icon_V6": "ear-deaf",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f2a4"
+  },
+  "dedent": {
+    "New_Icon_V6": "outdent",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f03b"
+  },
+  "delicious": {
+    "New_Icon_V6": "delicious",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1a5"
+  },
+  "deviantart": {
+    "New_Icon_V6": "deviantart",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1bd"
+  },
+  "diamond": {
+    "New_Icon_V6": "gem",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f3a5"
+  },
+  "digg": {
+    "New_Icon_V6": "digg",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1a6"
+  },
+  "dollar": {
+    "New_Icon_V6": "dollar-sign",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": 24
+  },
+  "dot-circle-o": {
+    "New_Icon_V6": "circle-dot",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f192"
+  },
+  "dribbble": {
+    "New_Icon_V6": "dribbble",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f17d"
+  },
+  "drivers-license": {
+    "New_Icon_V6": "id-card",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f2c2"
+  },
+  "drivers-license-o": {
+    "New_Icon_V6": "id-card",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f2c2"
+  },
+  "dropbox": {
+    "New_Icon_V6": "dropbox",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f16b"
+  },
+  "drupal": {
+    "New_Icon_V6": "drupal",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1a9"
+  },
+  "edge": {
+    "New_Icon_V6": "edge",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f282"
+  },
+  "eercast": {
+    "New_Icon_V6": "sellcast",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2da"
+  },
+  "empire": {
+    "New_Icon_V6": "empire",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1d1"
+  },
+  "envelope-o": {
+    "New_Icon_V6": "envelope",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f0e0"
+  },
+  "envelope-open-o": {
+    "New_Icon_V6": "envelope-open",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f2b6"
+  },
+  "envira": {
+    "New_Icon_V6": "envira",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f299"
+  },
+  "etsy": {
+    "New_Icon_V6": "etsy",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2d7"
+  },
+  "eur": {
+    "New_Icon_V6": "euro-sign",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f153"
+  },
+  "euro": {
+    "New_Icon_V6": "euro-sign",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f153"
+  },
+  "exchange": {
+    "New_Icon_V6": "right-left",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f362"
+  },
+  "expand": {
+    "New_Icon_V6": "up-right-and-down-left-from-center",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f424"
+  },
+  "expeditedssl": {
+    "New_Icon_V6": "expeditedssl",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f23e"
+  },
+  "external-link": {
+    "New_Icon_V6": "up-right-from-square",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f35d"
+  },
+  "external-link-square": {
+    "New_Icon_V6": "square-up-right",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f360"
+  },
+  "eye": {
+    "New_Icon_V6": "eye",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f06e"
+  },
+  "eye-slash": {
+    "New_Icon_V6": "eye-slash",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f070"
+  },
+  "eyedropper": {
+    "New_Icon_V6": "eye-dropper",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f1fb"
+  },
+  "fa": {
+    "New_Icon_V6": "font-awesome",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2b4"
+  },
+  "facebook": {
+    "New_Icon_V6": "facebook-f",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f39e"
+  },
+  "facebook-f": {
+    "New_Icon_V6": "facebook-f",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f39e"
+  },
+  "facebook-official": {
+    "New_Icon_V6": "facebook",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f09a"
+  },
+  "facebook-square": {
+    "New_Icon_V6": "facebook-square",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f082"
+  },
+  "feed": {
+    "New_Icon_V6": "rss",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f09e"
+  },
+  "file-archive-o": {
+    "New_Icon_V6": "file-zipper",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c6"
+  },
+  "file-audio-o": {
+    "New_Icon_V6": "file-audio",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c7"
+  },
+  "file-code-o": {
+    "New_Icon_V6": "file-code",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c9"
+  },
+  "file-excel-o": {
+    "New_Icon_V6": "file-excel",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c3"
+  },
+  "file-image-o": {
+    "New_Icon_V6": "file-image",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c5"
+  },
+  "file-movie-o": {
+    "New_Icon_V6": "file-video",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c8"
+  },
+  "file-o": {
+    "New_Icon_V6": "file",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f15b"
+  },
+  "file-pdf-o": {
+    "New_Icon_V6": "file-pdf",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c1"
+  },
+  "file-photo-o": {
+    "New_Icon_V6": "file-image",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c5"
+  },
+  "file-picture-o": {
+    "New_Icon_V6": "file-image",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c5"
+  },
+  "file-powerpoint-o": {
+    "New_Icon_V6": "file-powerpoint",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c4"
+  },
+  "file-sound-o": {
+    "New_Icon_V6": "file-audio",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c7"
+  },
+  "file-text": {
+    "New_Icon_V6": "file-lines",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f15c"
+  },
+  "file-text-o": {
+    "New_Icon_V6": "file-lines",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f15c"
+  },
+  "file-video-o": {
+    "New_Icon_V6": "file-video",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c8"
+  },
+  "file-word-o": {
+    "New_Icon_V6": "file-word",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c2"
+  },
+  "file-zip-o": {
+    "New_Icon_V6": "file-zipper",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1c6"
+  },
+  "files-o": {
+    "New_Icon_V6": "copy",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f0c5"
+  },
+  "firefox": {
+    "New_Icon_V6": "firefox",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f269"
+  },
+  "first-order": {
+    "New_Icon_V6": "first-order",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2b0"
+  },
+  "flag-o": {
+    "New_Icon_V6": "flag",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f024"
+  },
+  "flash": {
+    "New_Icon_V6": "bolt",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f0e7"
+  },
+  "flickr": {
+    "New_Icon_V6": "flickr",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f16e"
+  },
+  "floppy-o": {
+    "New_Icon_V6": "floppy-disk",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f0c7"
+  },
+  "folder-o": {
+    "New_Icon_V6": "folder",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f07b"
+  },
+  "folder-open-o": {
+    "New_Icon_V6": "folder-open",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f07c"
+  },
+  "font-awesome": {
+    "New_Icon_V6": "font-awesome",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2b4"
+  },
+  "fonticons": {
+    "New_Icon_V6": "fonticons",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f280"
+  },
+  "fort-awesome": {
+    "New_Icon_V6": "fort-awesome",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f286"
+  },
+  "forumbee": {
+    "New_Icon_V6": "forumbee",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f211"
+  },
+  "foursquare": {
+    "New_Icon_V6": "foursquare",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f180"
+  },
+  "free-code-camp": {
+    "New_Icon_V6": "free-code-camp",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2c5"
+  },
+  "frown-o": {
+    "New_Icon_V6": "face-frown",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f119"
+  },
+  "futbol-o": {
+    "New_Icon_V6": "futbol",
+    "New_Icon_Prefix": "fa-regular",
+    "New_Icon_UniCode": "f1e3"
+  },
+  "gbp": {
+    "New_Icon_V6": "sterling-sign",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f154"
+  },
+  "ge": {
+    "New_Icon_V6": "empire",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1d1"
+  },
+  "gear": {
+    "New_Icon_V6": "gear",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f013"
+  },
+  "gears": {
+    "New_Icon_V6": "gears",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f085"
+  },
+  "get-pocket": {
+    "New_Icon_V6": "get-pocket",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f265"
+  },
+  "gg": {
+    "New_Icon_V6": "gg",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f260"
+  },
+  "gg-circle": {
+    "New_Icon_V6": "gg-circle",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f261"
+  },
+  "git": {
+    "New_Icon_V6": "git",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1d3"
+  },
+  "git-square": {
+    "New_Icon_V6": "git-square",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1d2"
+  },
+  "github": {
+    "New_Icon_V6": "github",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f09b"
+  },
+  "github-alt": {
+    "New_Icon_V6": "github-alt",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f113"
+  },
+  "github-square": {
+    "New_Icon_V6": "github-square",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f092"
+  },
+  "gitlab": {
+    "New_Icon_V6": "gitlab",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f296"
+  },
+  "gittip": {
+    "New_Icon_V6": "gratipay",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f184"
+  },
+  "glass": {
+    "New_Icon_V6": "martini-glass-empty",
+    "New_Icon_Prefix": "fa-solid",
+    "New_Icon_UniCode": "f000"
+  },
+  "glide": {
+    "New_Icon_V6": "glide",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2a5"
+  },
+  "glide-g": {
+    "New_Icon_V6": "glide-g",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2a6"
+  },
+  "google": {
+    "New_Icon_V6": "google",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1a0"
+  },
+  "google-plus": {
+    "New_Icon_V6": "google-plus-g",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f0d5"
+  },
+  "google-plus-circle": {
+    "New_Icon_V6": "google-plus",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2b3"
+  },
+  "google-plus-official": {
+    "New_Icon_V6": "google-plus",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f2b3"
+  },
+  "google-plus-square": {
+    "New_Icon_V6": "google-plus-square",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f0d4"
+  },
+  "google-wallet": {
+    "New_Icon_V6": "google-wallet",
+    "New_Icon_Prefix": "fa-brands",
+    "New_Icon_UniCode": "f1ee"
+  }
+}
