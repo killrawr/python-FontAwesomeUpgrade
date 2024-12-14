@@ -99,32 +99,27 @@ def create_win_powershell_config():
     win_ps_shell_lines.append("")
     win_ps_shell_lines.append("Write-Host \"FontAwesome File Upgrader!\"")
     win_ps_shell_lines.append("")
+    win_ps_shell_lines.append("if ($selectedFolder -and $selectedFolder.Length -gt 0) {")
+    win_ps_shell_lines.append("    Get-ChildItem $selectedFolder -Filter \"*.php, *.tpl, *.css, *.js\" | ForEach-Object {")
     # FA Swap List
     fa_swap_list = get_v4_to_v6_list()
     # Update Method List
     for icon_value in fa_swap_list:
+        # Old | New Icons
         old_icon = str(icon_value['old_icon'])
         new_icon = str(icon_value['new_icon'])
-        # Power Shell config method
-        win_ps_shell_line = []
-        win_ps_shell_line.append("if ($selectedFolder -and $selectedFolder.Length -gt 0) {")
-        win_ps_shell_line.append("    Write-Host \"Replacing OLD icon (" + old_icon + ") with NEW icon (" + new_icon + ")\"")
-        win_ps_shell_line.append("    Get-ChildItem $selectedFolder -Filter \"*.php, *.tpl, *.css, *.js\" | ForEach-Object {")
-        win_ps_shell_line.append("        (Get-Content $_.FullName -Raw) -replace '" + old_icon + "', '" + new_icon + "' | Set-Content $_.FullName")
-        win_ps_shell_line.append("    }")
-        win_ps_shell_line.append("}")
-        win_ps_shell_line.append("")
-        # Make win_ps_shell_line into String
-        win_ps_shell_line_str = "\n".join(win_ps_shell_line)
-        win_ps_shell_line_str = str(win_ps_shell_line_str)
-        # Add line to lines
-        win_ps_shell_lines.append(win_ps_shell_line_str)
+        # Update the Shell Lines
+        win_ps_shell_lines.append("        Write-Host \"Replacing OLD icon (" + old_icon + ") with NEW icon (" + new_icon + ")\"")
+        win_ps_shell_lines.append("        (Get-Content $_.FullName -Raw) -replace '" + old_icon + "', '" + new_icon + "' | Set-Content $_.FullName")
+    # Close the File Loop
+    win_ps_shell_lines.append("    }")
+    win_ps_shell_lines.append("}")
+    win_ps_shell_lines.append("")
     # Convert lines to string
     win_ps_shell_string = "\n".join(win_ps_shell_lines)  # Add newline between each line
     win_ps_shell_string = str(win_ps_shell_string)
     # Return String
     return win_ps_shell_string
-
 
 # Download Windows Shell Config
 def download_win_powershell_config():
