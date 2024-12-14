@@ -4,6 +4,7 @@ from tkinter import filedialog
 import json
 import os
 
+
 # PowerShell File Dialog Code
 def read_powershell_fileDialog():
     # Define the relative file path
@@ -20,6 +21,7 @@ def read_powershell_fileDialog():
     
     # Return the dictionary containing the rename list
     return rename_list
+
 
 # Read the RENAME List for FontAwesome
 def read_v4_v6_fa_rename_list():
@@ -103,7 +105,6 @@ def create_win_powershell_config():
     for icon_value in fa_swap_list:
         old_icon = str(icon_value['old_icon'])
         new_icon = str(icon_value['new_icon'])
-        print(new_icon)
         # Power Shell config method
         win_ps_shell_line = []
         win_ps_shell_line.append("if ($selectedFolder -and $selectedFolder.Length -gt 0) {")
@@ -124,13 +125,12 @@ def create_win_powershell_config():
     # Return String
     return win_ps_shell_string
 
-print(create_win_powershell_config())
 
 # Download Windows Shell Config
 def download_win_powershell_config():
     file_path = filedialog.asksaveasfilename(
         defaultextension=".txt",
-        filetypes=[("Text Files", "*.aren"), ("All Files", "*.*")],
+        filetypes=[("Text Files", "*.ps1"), ("All Files", "*.*")],
         title="Save Windows PowerShell Config"
     )
     if file_path:
@@ -186,6 +186,7 @@ def create_sql_replace_config(column_name=None):
 def escape_mysql_string(value):
     # Escape single quotes by replacing them with two single quotes
     return value.replace("'", "''").replace("\\", "\\\\")
+
 
 # Download SQL
 def download_column_sql():
